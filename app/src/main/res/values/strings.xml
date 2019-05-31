@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlunosApp</string>
+    <string name="title_activity_cadastrar">CadastrarActivity</string>
+    <string name="title_activity_listar">ListarActivity</string>
+</resources>
